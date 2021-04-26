@@ -27,9 +27,9 @@ var keyZones = [
                 //Down:
                 [40],
                 //R:
-                [50],
+                [83],
                 //L:
-                [49]
+                [55]
 ];
 function keyDown(e) {
     var keyCode = e.keyCode | 0;
